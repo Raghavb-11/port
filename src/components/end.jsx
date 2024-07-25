@@ -13,7 +13,7 @@ const end = () => {
       <div className="pt-4 text-shtxt text-xl">Raghav Bajaj</div>
       <div className="pt-1">Crafting Experiences, Shaping Tomorrow</div>
 
-      <div className="pt-6 w-[700px] text-center text-neutral-400">
+      <div className="pt-6 max-w-[700px] text-center text-neutral-400">
         I love making connections with others who share my enthusiasm. Whether
         you have a project idea, need some help, or just want to chat, feel free
         to reach out!
