@@ -6,7 +6,7 @@ const Top = () => {
     <nav className="mb-20 flex items-center justify-between py-2">
       <div className="flex flex-shrink-0 items-center">
         <a href="/" rel="noopener noreferrer">
-          <h1 className="px-10 text-xl font-semibold">
+          <h1 className="max-px-10 text-xl font-semibold">
             RaghavBajaj<span className="text-shtxt">.dev</span>
           </h1>
         </a>
