@@ -10,7 +10,7 @@ const works = () => {
           whileInView={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: -100 }}
           transition={{ duration: 0.5 }}
-          className="text-4xl mb-3 font-bold text-center text-shtxt"
+          className="text-4xl mb-3 text-center text-shtxt"
         >
           Projects
         </motion.p>
