@@ -20,8 +20,9 @@ function App() {
 
         <section className="">
           <About />
-          <Edu />
+         
           <Int />
+           <Edu />
           <Works />
           <Cont />
           <End />
