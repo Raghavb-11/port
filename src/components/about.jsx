@@ -4,7 +4,7 @@ import prof from "../assets/ppro.png";
 
 const about = () => {
   return (
-    <div className="border-b pb-4">
+    <div className="pb-4">
       <h1 className="my-20 text-center text-4xl">
         Discover joy in simplicity —like a child like!
       </h1>
