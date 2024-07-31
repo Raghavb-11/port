@@ -23,7 +23,7 @@ const Ic = (duration) => ({
 
 const int = () => {
   return (
-    <div className="border-b pb-24">
+    <div className="pb-24">
       <h1 className="my-20 text-center text-4xl text-shtxt">Technologies</h1>
       <div className="flex flex-wrap items-center justify-center gap-4">
         <motion.div
