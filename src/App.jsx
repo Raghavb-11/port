@@ -6,6 +6,7 @@ import Int from "./components/int";
 import Works from "./components/works";
 import Cont from "./components/cont";
 import End from "./components/end";
+import Edu from "./components/edu";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
 
         <section className="">
           <About />
+          <Edu />
           <Int />
           <Works />
           <Cont />
