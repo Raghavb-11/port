@@ -1,6 +1,7 @@
 import React from "react";
 import { BsHeartFill } from "react-icons/bs";
 import { motion } from "framer-motion";
+import endpro from "../assets/endp.png";
 
 const end = () => {
   return (
@@ -10,6 +11,13 @@ const end = () => {
       transition={{ duration: 0.5 }}
       className="flex flex-col justify-center items-center pt-6"
     >
+      <div className="flex justify-center items-center">
+        <img
+          className="w-auto h-auto max-w-[160px] max-h-[160px]"
+          src={endpro}
+          alt="photo"
+        />
+      </div>
       <div className="pt-4 text-shtxt text-xl">Raghav Bajaj</div>
       <div className="pt-1">Crafting Experiences, Shaping Tomorrow</div>
 
